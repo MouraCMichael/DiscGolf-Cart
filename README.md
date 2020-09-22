@@ -7,8 +7,6 @@ Custom designed disc golf cart.
 
 <p>
   
-<p align="float">
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="432" height=”600” src="https://user-images.githubusercontent.com/37875517/93841679-5a49c500-fc62-11ea-8dda-dab68a507383.JPG">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,15 +37,4 @@ Custom designed disc golf cart.
 <img width="432" height=”600” src="https://user-images.githubusercontent.com/37875517/93842220-1c4da080-fc64-11ea-9242-fc573caa1a83.JPG">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="432" height=”600” src="https://user-images.githubusercontent.com/37875517/93842227-2374ae80-fc64-11ea-9e95-1a15bd2a268f.JPG">
-
-
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<p>  
   
