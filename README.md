@@ -8,18 +8,23 @@ Grant Easterday, Corey Moura
 ## Description
 Custom designed disc golf cart constructed from 14 guage aluminum sheet with aluminum riveting.  Designed to withstand the riggors of the offroad terrain seen on disc golf courses and can be used as a bench durring waiting periods on the course.  
 
-### Features:
+
+## Features:
 - Detachable telescoping pull/push handle
 - Side mounted carry handles
 - Flip up lid with magnetic retention
-- Lower storage compartment
+- Generous lower storage compartment
 - Non-pnumatic worry free wheels
-- Low friction bearings for reduced pulling effort 
-- Light weight fenders 
+- Low friction bearings to reduced pulling effort 
+- Light weight fenders for those wet or muddy days
+- Adjustable interior disc dividers for organization
 - Rear storage area with bags for beverages and snacks
+- Compact design fits in almost any modern trunck
  
 
+
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
+
 
 <p align="center">
   
