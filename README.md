@@ -6,7 +6,7 @@ Grant Easterday, Corey Moura
 
 
 ## Description
-Custom designed disc golf cart constructed from 14 guage aluminum sheet with aluminum riveting.  Designed to withstand the riggors of the offroad terrain seen on disc golf courses and can be used as a bench durring waiting periods on the course.
+Custom designed disc golf cart constructed from 14 guage aluminum sheet with aluminum riveting.  Designed to withstand the riggors of the offroad terrain seen on disc golf courses and can be used as a bench durring waiting periods on the course.  Features include a detachable telescoping pull/push handle, side mounted carry handles, flip up lid with magnetic retention, lower storage compartment, non-pnumatic worry free wheels, low friction bearings for reduced pulling effort and rear storage area with bags for beverages and snacks. 
 
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
 
