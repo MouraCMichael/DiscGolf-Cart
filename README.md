@@ -1,13 +1,17 @@
 # Disc Golf Cart
+Custom disc golf cart for personal use.
 
+<br/>
 
-### Collaberated effort by: 
+## Contributors: 
 Grant Easterday, Corey Moura
 
+<br/>
 
 ## Description
 Custom designed disc golf cart constructed from 14 guage aluminum sheet with aluminum riveting.  Designed to withstand the riggors of the offroad terrain seen on disc golf courses and can be used as a bench durring waiting periods on the course.  
 
+<br/>
 
 ## Features:
 - Detachable telescoping pull/push handle
@@ -22,12 +26,12 @@ Custom designed disc golf cart constructed from 14 guage aluminum sheet with alu
 - Compact design fits in almost any modern trunck
  
 
-
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
 
 
 <p align="center">
   
+<br/>
 <br/>
 <br/>
   
