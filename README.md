@@ -23,7 +23,7 @@ Custom designed disc golf cart constructed from 14 guage aluminum sheet with alu
 - Light weight fenders for those wet or muddy days
 - Adjustable interior disc dividers for organization
 - Rear storage area with bags for beverages and snacks
-- Compact design fits in almost any modern trunck
+- Compact design fits in almost any modern trunk
  
 
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
